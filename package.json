@@ -20,7 +20,7 @@
   "homepage": "https://github.com/matthew-andrews/isomorphic-fetch/issues",
   "dependencies": {
     "node-fetch": "^1.0.1",
-    "whatwg-fetch": "git://github.com/stitchedcode/fetch.git#4ddee07c9b87e2d953dfa237b225394230c88983"
+    "whatwg-fetch": "git://github.com/stitchedcode/fetch.git#c904f8d6076fffb54c60a0bf58cf47c0c602d0b0"
   },
   "devDependencies": {
     "chai": "^1.10.0",
